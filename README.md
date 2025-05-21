@@ -49,7 +49,7 @@ This Power BI dashboard analyzes student performance across multiple departments
 ![Top Performers](https://github.com/mehtaricha-23/University-Student-Performance-Analysis/blob/main/Top%2010%20Performers.png)  
 *Highlighting top 10 students by CGPA and marks distribution.*
 
-### 3. Attendance and Performance Correlation  
+### 3.Performance by Department  
 ![Attendance Trends](https://github.com/mehtaricha-23/University-Student-Performance-Analysis/blob/main/Performance%20by%20Department.png
 )  
 *Analyzing how attendance impacts student performance.*
