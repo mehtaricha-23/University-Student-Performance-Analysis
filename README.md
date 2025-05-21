@@ -50,7 +50,8 @@ This Power BI dashboard analyzes student performance across multiple departments
 *Highlighting top 10 students by CGPA and marks distribution.*
 
 ### 3. Attendance and Performance Correlation  
-![Attendance Trends](./images/dashboard3.png)  
+![Attendance Trends](https://github.com/mehtaricha-23/University-Student-Performance-Analysis/blob/main/Performance%20by%20Department.png
+)  
 *Analyzing how attendance impacts student performance.*
 
 ---
