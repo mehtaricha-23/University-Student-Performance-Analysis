@@ -46,7 +46,7 @@ This Power BI dashboard analyzes student performance across multiple departments
 *Visualizing CGPA and Marks comparison across departments.*
 
 ### 2. Top Performers and Distribution  
-![Top Performers](./images/dashboard2.png)  
+![Top Performers](https://github.com/mehtaricha-23/University-Student-Performance-Analysis/blob/main/Top%2010%20Performers.png)  
 *Highlighting top 10 students by CGPA and marks distribution.*
 
 ### 3. Attendance and Performance Correlation  
