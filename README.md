@@ -42,7 +42,7 @@ This Power BI dashboard analyzes student performance across multiple departments
 ## 🖼️ Dashboards Preview
 
 ### 1. Department-wise Performance Overview  
-![Department-wise Performance](./images/dashboard1.png)  
+![Department-wise Performance](https://github.com/mehtaricha-23/University-Student-Performance-Analysis/blob/main/UNIVERSITY%20STUDENT%20PERFORMANCE%20DASHBOARD.png)  
 *Visualizing CGPA and Marks comparison across departments.*
 
 ### 2. Top Performers and Distribution  
