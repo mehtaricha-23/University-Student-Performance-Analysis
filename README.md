@@ -57,28 +57,26 @@ This Power BI dashboard analyzes student performance across multiple departments
 ---
 
 ## ⚙️ Installation
+To use Power BI Desktop, you need to install it on your system:
 
-Power BI Desktop ko use karne ke liye, aapko apne system par Power BI Desktop install karna hoga:
+Download Power BI Desktop (Free):
+https://powerbi.microsoft.com/en-us/desktop/
 
-1. Power BI Desktop Download karein (Free):  
-   [https://powerbi.microsoft.com/en-us/desktop/](https://powerbi.microsoft.com/en-us/desktop/)
+Download the .pbix file and open it in Power BI Desktop.
 
-2. `.pbix` file ko download kar ke Power BI Desktop mein open karein.
+If your data source is external, connect it (if applicable).
 
-3. Aapke paas data source agar external ho to usko connect karein (agar applicable ho).
 
 ---
 
-## 🚀 Usage Instructions
+##🚀 Usage Instructions
+Open the University_Student_Performance.pbix file in Power BI Desktop.
 
-1. Power BI Desktop mein `University_Student_Performance.pbix` file open karein.
+Go to the Report tab to explore various dashboards and visuals.
 
-2. Report tab mein jaake different dashboards aur visuals explore karein.
+Use filters and slicers to customize the data view as needed.
 
-3. Filters aur slicers ka use kar ke data ko customize kar sakte hain.
-
-4. Apni analysis ke hisaab se report ko export ya publish bhi kar sakte hain.
-
+Export or publish the report based on your analysis.
 ---
 
 ## 🗂️ Folder Structure (Recommended)
@@ -93,31 +91,6 @@ Power BI Desktop ko use karne ke liye, aapko apne system par Power BI Desktop in
 ### 3. Attendance and Performance Correlation  
 ![Attendance Trends](./images/dashboard3.png)  
 *Analyzing how attendance impacts student performance.*
-
----
-
-## ⚙️ Installation
-
-Power BI Desktop ko use karne ke liye, aapko apne system par Power BI Desktop install karna hoga:
-
-1. Power BI Desktop Download karein (Free):  
-   [https://powerbi.microsoft.com/en-us/desktop/](https://powerbi.microsoft.com/en-us/desktop/)
-
-2. `.pbix` file ko download kar ke Power BI Desktop mein open karein.
-
-3. Aapke paas data source agar external ho to usko connect karein (agar applicable ho).
-
----
-
-## 🚀 Usage Instructions
-
-1. Power BI Desktop mein `University_Student_Performance.pbix` file open karein.
-
-2. Report tab mein jaake different dashboards aur visuals explore karein.
-
-3. Filters aur slicers ka use kar ke data ko customize kar sakte hain.
-
-4. Apni analysis ke hisaab se report ko export ya publish bhi kar sakte hain.
 
 ---
 
